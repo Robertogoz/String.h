@@ -1,7 +1,7 @@
 # String.h
 Some exercises in C using String.h lib
 
-##Questions
+## Questions
 
 * Ex1:Write a program that scans a string and print that string inverted
 
