@@ -1,5 +1,5 @@
 # String.h
-Some exercises in C using String.h lib
+Some exercises in C about string manipulation using String.h lib
 
 ## Questions
 
