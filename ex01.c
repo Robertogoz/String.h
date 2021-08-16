@@ -14,5 +14,7 @@ int main(void){
 		B[i] = A[j - 1];
 		j--;
 	}
+	
+	B[i] = '\0';
 	printf("%s", B);
 }
