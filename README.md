@@ -3,7 +3,7 @@ Some exercises in C about string manipulation using String.h lib
 
 ## Questions
 
-* Ex1:Write a program that scans a string and print that string inverted
+* Ex)1:Write a program that scans a string and print that string inverted
 
 * Ex2:Write a program that scans a string and print a string that solve that equation: NV +(2*NC) NV: number of vowels; NC: number of consonants; ignore blank spaces 
 
@@ -12,3 +12,11 @@ Some exercises in C about string manipulation using String.h lib
 * Ex4:Write a program that scans a string and a character and erases all occurrences of that character in string, print the resultant string
 
 * Ex5:Write a program that scans a string and hides the values a company trades in its contracts
+
+* Ex6:Write a program that scans 2 strings and concannated them
+
+* Ex7:Write a program that scans a string and replace your vowels per "_" 
+
+* Ex8: Write a program that scans a array size, array values and a paradigm string and output a string using the array's values to decode a string
+
+* Ex9:Write a program that scans a lowercase string and replace yours chars per following uppercase chararcter   
