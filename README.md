@@ -3,7 +3,7 @@ Some exercises in C about string manipulation using String.h lib
 
 ## Questions
 
-* Ex)1:Write a program that scans a string and print that string inverted
+* Ex1:Write a program that scans a string and print that string inverted
 
 * Ex2:Write a program that scans a string and print a string that solve that equation: NV +(2*NC) NV: number of vowels; NC: number of consonants; ignore blank spaces 
 
